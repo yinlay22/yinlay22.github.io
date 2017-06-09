@@ -1,0 +1,74 @@
+<HTML>
+<HEAD>
+<STYLE type="text/css">
+	#Importance{
+		font-size:60px;
+		font-family: 'Chalkduster';
+		color: #4298CF;
+
+	}
+	#font{
+		font-size:20px;
+		font-family: 'Noteworthy';
+		color: #4298CF;
+
+	}
+	#font2{
+		font-size:20px;
+		font-family: 'Noteworthy';
+		color: #4298CF;
+
+	}
+</STYLE>
+</HEAD>
+<BODY bgcolor='#FAF4FE'> 
+	<FONT id='Importance'>
+	<CENTER>
+Why Eating Healthily Is Important
+		</CENTER>
+		</FONT>
+		<BR> <BR> </BR> </BR>
+	<TABLE>
+	<TR>
+	<TD>
+ 	<IMG src='Happy Rainbow.jpeg' width='400' length='1600'></IMG>
+	</TD>
+	<TD>
+	<FONT id='font'>
+* Eating healthily can increase positivity. Just like your car, it needs fuel to run. Your brain needs fuel too! But not extra unneeded fuel; Junk food. You can even be more focused on schoolwork and get better grades! 
+* Be more happy! Just by eating more healthy food you can enhance your mood and regulates your mood. Proper nutrition will help you feel better. Proper nutrition includes vegetables, fruits, vitamins… They make you stronger! So you can do better in P.E class and get better grades!
+	</FONT>
+	</TD>
+	<TD>
+	</TD>
+	<TD>
+	</TD>
+	<TD>
+	</TD>
+	<TD>
+	</TD>
+	<TD>
+	</TD>
+	<TD>
+	</TD>
+	<TD>
+	</TD>
+	<TD>
+	</TD>
+	<TD>
+	</TD>
+	</TR>
+	<TR>
+	<TD>
+	<FONT id='font2'>
+* Be healthier ( Duh~ ) Not everybody who is thin is healthy, and not everyone who is overweight is unhealthy, but eating right can improve health for even thin people who are junk food junkies. Junkies includes french fries, potato chips, greasy foods, and soda.
+* Live longer! A diet of fruit and vegetables, in combination with exercise, was associated with extended life expectancy for women in their 70s, according to a study in the Journal of the American Geriatrics Society. You can live longer, be healthier, and be happier at the same time in an old age! Isn’t that great? 
+	</FONT>
+	</TD>
+	<TD>
+	<IMG src='Strong Bear.png' width='400' length='1600'></IMG>
+	</TD>
+	</TR>
+	</TABLE>
+</BODY>
+</HTML>
