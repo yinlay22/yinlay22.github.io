@@ -1,0 +1,48 @@
+<HTML>
+<HEAD>
+	<Style type="text/css">
+		#title {
+			font-size:84px;
+			color: #9DC0E0;
+			font-family: Bradley Hand;
+		}
+
+		#button {
+			width: 130px;
+			height: 50px;
+			-moz-border-radius: 50px;
+			-webkit-border-radius: 50px;
+			border-radius: 50px;
+			background: #9DE0DE;
+		}
+
+		#word {
+			font-size: 20px;
+			color: #E88F5B;
+			font-family: Brush Srcipt MT;
+			position: absolute;
+			top: 668px;
+			left: 620px;
+
+		}
+
+	</STYLE>
+	<TITLE> Lesson 15 </TITLE>
+
+	<CENTER>
+	<FONT id='title'> Danganronpa 2 </FONT>
+
+
+	<BODY bgcolor='F9F7EF'>
+		<IMG id="img" src="IT/002.png">
+	</BODY>
+
+
+	<div id='button'></div> 
+	<div id='word'>
+	<A href="https://zh.moegirl.org/zh-hant/%E4%B9%9D%E5%A4%B4%E9%BE%99%E5%86%AC%E5%BD%A6"> Enter </A>	 
+	</div>
+	</CENTER>
+
+</HEAD>
+</HTML>
